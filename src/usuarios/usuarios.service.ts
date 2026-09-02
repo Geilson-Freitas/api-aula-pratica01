@@ -18,8 +18,8 @@ export class UsuariosService {
   private readonly usuarios: Usuario[] = [
     {
       id: 1,
-      nome: 'Ana Lima',
-      email: 'ana@empresa.com',
+      nome: 'Carla',
+      email: 'carla@auditoriaempresa.com',
       senhaHash: '$2b$12$J57O7dZNtzhOo3IwclwNKOj9Xp8n3t75A1j/8lpT7WlmvJoya0oJe',
       papel: 'gestor',
       ativo: true,
